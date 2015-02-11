@@ -1,3 +1,9 @@
+s3fs (1.78-0anevia1+lenny1) lenny; urgency=low
+
+  * adaptations to lenny debhelpers
+
+ -- Frederic Cand <frederic.cand@anevia.com>  Tue, 10 Feb 2015 11:26:28 +0200
+
 s3fs (1.78-0anevia1) unstable; urgency=low
 
   * set correct git-hub urls
