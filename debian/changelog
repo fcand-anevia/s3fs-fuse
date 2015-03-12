@@ -1,3 +1,9 @@
+s3fs (1.78-0anevia2+lenny1) lenny; urgency=low
+
+  * fix truncate on already opened files (#6381)
+
+ -- Frederic Cand <frederic.cand@anevia.com>  Thu, 12 Mar 2015 09:54:28 +0200
+
 s3fs (1.78-0anevia1+lenny1) lenny; urgency=low
 
   * adaptations to lenny debhelpers
